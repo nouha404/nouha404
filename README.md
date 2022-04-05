@@ -12,7 +12,7 @@ Oie Oie Oie 👋,
 
 
 
- ###  Je suis Aboubacar Marega  
+ ###  Je suis, 
  
  *  Un développeur web autodidacte depuis le collège. <br>
     &ensp;&ensp;   🔭 Travaille pour devenir un ingénieur logiciel
