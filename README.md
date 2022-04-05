@@ -1,6 +1,6 @@
 Oie Oie Oie 👋, 
 ##  Bienvenue sur le profil
-Du disciple de maitre Yoda 🧙‍♂️ 
+<p align="center">Du disciple de maitre Yoda 🧙‍♂️ </p>
 
 <p>
   
