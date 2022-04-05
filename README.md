@@ -71,7 +71,7 @@ function whoIAm () {
 <p>
   
   <img  align="right" width="40%" src="https://media.giphy.com/media/1W40UWS9peSru/giphy.gif"/>
-  <h3 align="right"> Merci de m''avoir accorder ton temps .</h>
+  <h3 align="right"> Merci de m''avoir accorder votre temps .</h>
  </p>
    
    
