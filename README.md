@@ -32,7 +32,7 @@ Du disciple de maitre Yoda 🧙‍♂️
           
           
           
- ###  Contactez 📫,
+ <h3 align="center"> Contactez 📫,</h3>
  
 <p align="center">
 <a href="com/in/aboubacar-m-09b427122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboubacar marega" height="30" width="40" /></a>
