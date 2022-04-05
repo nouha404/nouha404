@@ -19,7 +19,7 @@ Oie Oie Oie 👋,
   
     &ensp;&ensp;  🌱 Actuellement étudiant en informatique en école d'ingénieur au Sénégal 
   
-    &ensp;&ensp;  👯 Je serai le Joker 🃏 dans votre équipage  
+    &ensp;&ensp;  👯 Je serai le Joker dans votre équipage 🃏
        
      <br>
 
@@ -42,7 +42,7 @@ Oie Oie Oie 👋,
 
 
 ``` Javascript
-function whoIAm () {
+let whoIam = () => {
   const personnage = {
     nom : "Marega",
     prenom : "Aboubacar",
@@ -71,7 +71,7 @@ function whoIAm () {
 <p>
   
   <img  align="right" width="40%" src="https://media.giphy.com/media/1W40UWS9peSru/giphy.gif"/>
-  <h3 align="right"> Merci de m''avoir accorder votre temps .</h>
+  <h3 align="right"> Merci de m'avoir accorder votre temps .</h>
  </p>
    
    
