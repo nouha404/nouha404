@@ -8,10 +8,6 @@ Oie Oie Oie 👋,
   
   </p> 
   
-
-
-
-
  ###  Je suis, 
  
  *  Un développeur web autodidacte depuis le collège. <br>
@@ -49,7 +45,8 @@ let whoIam = () => {
     hobbies : ["Manga", "🏀", "🕹️", "👩‍💻"],
     power : "Javascript",
     Profession : "Developpeur",
-    link : "marega.aboubacar404@gmail.com"
+    link : "marega.aboubacar404@gmail.com",
+    number : [770811045, 768601925]
   
   }
 }
