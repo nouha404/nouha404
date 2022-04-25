@@ -10,7 +10,7 @@ Oie Oie Oie 👋,
   
  ###  Je suis, 
  
- *  Un développeur web autodidacte depuis le collège. <br>
+ *  Un développeur web autodidacte certifier . <br>
     &ensp;&ensp;   🔭 Travaille pour devenir un ingénieur logiciel
   
     &ensp;&ensp;  🌱 Actuellement étudiant en informatique en école d'ingénieur au Sénégal 
