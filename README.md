@@ -43,10 +43,10 @@ let whoIam = () => {
     nom : "Marega",
     prenom : "Aboubacar",
     hobbies : ["Manga", "🏀", "🕹️", "👩‍💻"],
-    power : ["Javascript", "Python" ]
+    power : ["Javascript", "Python" ],
     Profession : "Developpeur",
     link : "marega.aboubacar404@gmail.com",
-    number : [770811045, 768601925]
+    number : [770811045, 768601925],
   
   }
 }
