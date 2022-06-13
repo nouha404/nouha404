@@ -13,7 +13,7 @@ Oie Oie Oie 👋,
  *  Un développeur web autodidacte certifier . <br>
     &ensp;&ensp;   🔭 Travaille pour devenir un ingénieur logiciel
   
-    &ensp;&ensp;  🌱 Actuellement étudiant en informatique en école d'ingénieur au Sénégal 
+    &ensp;&ensp;  🌱 Actuellement étudiant en informatique a ISM Digital Campus 
   
     &ensp;&ensp;  👯 Je serai le Joker dans votre équipage 🃏
        
