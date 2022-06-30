@@ -25,13 +25,13 @@ Oie Oie Oie 👋,
    un petit apercu de mon travail 📚 <br>
    https://nouha404.github.io/mon-portfolio/
  
-          
+          https://www.linkedin.com/in/aboubacar-m-09b427122/
           
           
  <h3 align="center"> Contactez 📫,</h3>
- 
-<p align="center">
-<a href="com/in/aboubacar-m-09b427122/" target="blank"><img align="center" src="linkedin.com/in/aboubacar-m-09b427122" alt="aboubacar marega" height="30" width="40" /></a>
+   
+ <p align="center">
+<a href="https://www.linkedin.com/in/aboubacar-m-09b427122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aboubacar-m-09b427122" height="30" width="40" /></a>
 </p>
 
    And the world w'll be better 🪐 💳
