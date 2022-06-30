@@ -24,9 +24,7 @@ Oie Oie Oie 👋,
     
    un petit apercu de mon travail 📚 <br>
    https://nouha404.github.io/mon-portfolio/
- 
-          https://www.linkedin.com/in/aboubacar-m-09b427122/
-          
+        
           
  <h3 align="center"> Contactez 📫,</h3>
    
