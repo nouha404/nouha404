@@ -4,11 +4,12 @@ Oie Oie Oie 👋,
 
 <p>
   
-  <img align="left" width="40%" src="https://media.giphy.com/media/g0OT8JBFRc8SY/giphy.gif" />
+  <img align="left" width="450px" src="https://media.giphy.com/media/g0OT8JBFRc8SY/giphy.gif" />
   
   </p> 
   
- ###  Je suis, 
+<div align="center" >
+     ###  Je suis, 
  
  *  Un développeur autodidacte. <br>
     &ensp;&ensp;   🔭 Travaille pour devenir un ingénieur logiciel
@@ -18,7 +19,7 @@ Oie Oie Oie 👋,
     &ensp;&ensp;  👯 Je serai le Joker dans votre équipage 🃏
        
      <br>
-
+</div>
 ###   Ayez donc ,
   
     
