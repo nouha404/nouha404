@@ -44,8 +44,7 @@ let whoIam = () => {
     power : ["Javascript", "Python" ],
     Profession : "Etudiant en informatique",
     link : "marega.aboubacar404@gmail.com",
-    number : [770811045, 768601925],
-  
+ 
   }
 }
 
