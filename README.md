@@ -4,7 +4,7 @@ Oie Oie Oie 👋,
 
 <p>
   
-  <img align="left" width="450px" src="https://media.giphy.com/media/g0OT8JBFRc8SY/giphy.gif" />
+  <img align="left" width="70%" src="https://media.giphy.com/media/g0OT8JBFRc8SY/giphy.gif" />
   
   </p> 
   
