@@ -39,8 +39,8 @@ Oie Oie Oie 👋,
 ``` Javascript
 let whoIam = () => {
   const personnage = {
-    nom : "Marega",
-    prenom : "Aboubacar",
+    nom : "-",
+    prenom : "-",
     hobbies : ["Manga", "🏀", "🕹️", "👩‍💻"],
     power : ["Javascript", "Python" ],
     Profession : "Etudiant en informatique",
