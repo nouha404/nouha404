@@ -23,7 +23,7 @@ Oie Oie Oie 👋,
 ###   Ayez donc ,
   
     
-   un petit apercu de mon travail 📚 <br>
+   
    https://nouha404.github.io/mon-portfolio/
         
           
