@@ -40,7 +40,7 @@ let whoIam = () => {
     hobbies : ["Manga", "🏀", "🕹️", "👩‍💻"],
     power : ["Javascript", "Python" ],
     Profession : "Etudiant en informatique",
-    link : "aboubacar.marega@ism.edu.sn",
+    link : "-",
  
   }
 }
