@@ -14,7 +14,7 @@ Oie Oie Oie 👋,
  *  Un développeur autodidacte. <br>
     &ensp;&ensp;   🔭 Travaille pour devenir un ingénieur logiciel
   
-    &ensp;&ensp;  🌱 Actuellement étudiant en informatique a ISM Digital Campus 
+    &ensp;&ensp;  🌱 Actuellement étudiant l'université Sorbonne Paris Nord 
   
     &ensp;&ensp;  👯 Je serai le Joker dans votre équipage 🃏
        
