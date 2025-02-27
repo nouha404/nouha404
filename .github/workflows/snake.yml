@@ -1,0 +1,39 @@
+name: 🐍 Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Exécute une fois par jour
+  workflow_dispatch: # Permet de l'exécuter manuellement
+
+jobs:
+  build:
+    name: 🎨 Générer l'animation du serpent
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Cloner le dépôt
+        uses: actions/checkout@v3
+
+      - name: 🐍 Génération de l'animation du serpent
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nouha404
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.png
+            dist/github-snake-dark.png?palette=github-dark
+            dist/github-snake.gif
+            dist/github-snake-dark.gif?palette=github-dark
+
+      - name: 📂 Vérifier les fichiers générés
+        run: ls -l dist
+
+      - name: 🚀 Déploiement des fichiers générés
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
+          clean: true # Nettoie les anciens fichiers avant de déployer
+
+      - name: ✅ Fin du workflow
+        run: echo "🚀 Génération terminée avec succès ! 🎉"
