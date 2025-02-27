@@ -41,9 +41,8 @@
 
 ### 🎨 Frontend & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma" alt="Frontend & Design" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,laravel" alt="Frontend & Design" />
 </p>
-
 ### 🗄️ Bases de données
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
