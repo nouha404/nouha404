@@ -20,7 +20,7 @@
 - 🎓 Étudiant à l'**Université Sorbonne Paris Nord**.
 - 🃏 Je serai le **Joker** dans votre équipage.
 - 🌱 Passionné par le **développement web & mobile**.
-- 🎨 Amateur de **design et d'UI/UX**.
+- 🎨 Artist a mes heures perdues **design et d'UI/UX**.
 
 ---
 
