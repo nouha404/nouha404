@@ -36,12 +36,12 @@
 
 ### 🚀 Langages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,django,angular" alt="Langages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,django,angular,laravel" alt="Langages & Frameworks" />
 </p>
 
 ### 🎨 Frontend & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,laravel" alt="Frontend & Design" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma" alt="Frontend & Design" />
 </p>
 ### 🗄️ Bases de données
 <p>
