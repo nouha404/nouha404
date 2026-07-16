@@ -18,7 +18,7 @@ const nouha404 = {
   nom: "Aboubacar Marega",
   localisation: "Paris, France 🇫🇷",
   formation: "Ingénieur Logiciel — Université Sorbonne Paris Nord",
-  passion: ["Développement Web & Mobile", "UI/UX Design", "Open Source"],
+  passion: ["Développement Web & Mobile & DevOps", "UI/UX Design", "Open Source"],
   hobbies: ["Manga", "🏀", "🕹️", "🎨"],
   motto: "Oie Oie Oie ! Disciple de Maître Yoda, je suis 🧙‍♂️"
 };
