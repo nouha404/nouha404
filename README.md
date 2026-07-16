@@ -25,7 +25,6 @@ const nouha404 = {
 ```
 
 - 🔭 Actuellement en formation pour devenir **Ingénieur Logiciel**
-- 🎓 Étudiant à l'**Université Sorbonne Paris Nord**
 - 🃏 Je serai le **Joker** dans votre équipage
 - 🌱 Passionné par le **développement web & mobile**
 - 🎨 Artiste à mes heures perdues — **design et UI/UX**
